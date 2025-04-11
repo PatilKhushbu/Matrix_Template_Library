@@ -1,5 +1,3 @@
-# Matrix_Template_Library in C++
-
 # 🧮 Matrix Template Library in C++
 
 ## 📌 Overview
